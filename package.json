@@ -1,0 +1,11 @@
+{
+  "name": "ts-ruby-plugin",
+  "version": "0.1.0",
+  "main": "dist/index.js",
+  "repository": "https://github.com/mtsmfm/ts-ruby-plugin",
+  "author": "Fumiaki MATSUSHIMA <mtsmfm@gmail.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "typescript": "^3.8.3"
+  }
+}
